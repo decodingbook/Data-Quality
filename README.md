@@ -11,3 +11,9 @@ https://bit.ly/3nSZwQM
 
 * 저자 3인이 전하는 한국 독자들을 위한 메시지
 https://bit.ly/3KACNls
+
+# 정오표 
+No confirmed errata were found for this product.
+
+# 문의처 
+ask@decoding.co.kr 
